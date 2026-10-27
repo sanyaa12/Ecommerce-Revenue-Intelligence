@@ -1,0 +1,13 @@
+Metric,Value
+Total rows,541909
+Total columns,8
+Missing descriptions,1454
+Missing customer IDs,135080
+Duplicate rows,5268
+Zero or negative unit prices,2517
+Negative quantities,10624
+Zero quantities,0
+Invoice rows starting with C,9288
+Earliest transaction date,01-12-2010 08:26
+Latest transaction date,09-12-2011 12:50
+Net line value before cleaning,9747747.93
